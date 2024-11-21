@@ -1,14 +1,7 @@
 Product Showcase
 This project is a simple product showcase web page that features a list of products and provides some JavaScript functions for data manipulation, such as calculating totals, removing duplicates, and validating email addresses. The page is styled with CSS to create an attractive and interactive design.
 
-## Table of Contents
 
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
 
 ## Project Overview
 
@@ -28,6 +21,3 @@ This project consists of an HTML file with a styled product showcase, JavaScript
 - **JavaScript**: For dynamic functionality.
 - **TypeScript**: Used in the product price calculation function.
 
-## Installation
-
-To get started with this project, follow these steps:
